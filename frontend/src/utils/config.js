@@ -1,0 +1,1 @@
+export const BASE_URL = 'http:/locahost:4000/api/v1';
